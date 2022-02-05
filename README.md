@@ -10,10 +10,10 @@ I'm a **Junior Full-Stack Developer** who is passionate about **designing** and 
 
 #### NOW
 
-- 🖥️ I'm working at At'la Git Company as Back-End Developer
-- 🖌️ I'm creating professional designs as a Freelancer at <a href="https://bionluk.com/yuuthedev">Bionluk.com</a>
+- 🖥️ I'm working at At'la Git Company as a Back-End Developer
+- 🖌️ I'm creating professional designs as a Freelancer at <a href="https://bionluk.com/yuuthedev">bionluk.com</a>
 - 🪟 I'm developing portfolio websites for companies and persons as a Freelancer
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuunsGit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuunsGit&layout=compact&theme=dark)

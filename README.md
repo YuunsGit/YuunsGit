@@ -6,14 +6,3 @@
   I'm a **Game Developer** who is passionate about **designing** and **digital arts**.
 
   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YuunsGit)
-
-  <br>
-  <br>
-
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=305044214239068162)
-
-  <br>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuunsGit&layout=compact&theme=dark)
-  
-  </p>

@@ -3,6 +3,6 @@
 
   ### Hey there! 👋
 
-  I'm a **Game Developer** who is passionate about **designing** and **digital arts**.
+  I'm a **Web Developer** who is passionate about **designing** and **digital arts**.
 
   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YuunsGit)

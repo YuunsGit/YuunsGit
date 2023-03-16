@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" width=150px height=150px src="https://cdnb.artstation.com/p/assets/images/images/043/301/895/large/yunus-emre-1080keskin.jpg">
+  <img align="left" width=200px src="https://user-images.githubusercontent.com/42357900/225605845-24552700-15cf-4a34-8731-aada01e90bdf.svg">
 
   ## Hi there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
 

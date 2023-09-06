@@ -5,5 +5,5 @@
 
   I'm a **Full Stack Engineer** at **DT Cloud** who is passionate about **designing** and **digital arts**.
   <br/>
-  <a href="https://yuuns.tech" target="_blank">Check out my website.</a>
+  <a href="https://yunusemre.dev" target="_blank">Check out my website.</a>
 </p>

@@ -3,7 +3,7 @@
 
   ## Hi there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
 
-  I'm a **Frontend Engineer** at **Radity** who is passionate about **designing** and **digital arts**.
+  I'm a **Full Stack Engineer** at **Radity** who is passionate about **designing** and **digital arts**.
   <br/>
   <a href="https://yunusemre.dev" target="_blank">Check out my website.</a>
 </p>
